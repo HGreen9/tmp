@@ -1,0 +1,10 @@
+/* External stylesheet */
+
+body {
+    background: rgb(122, 169, 212);
+}
+
+h1 {
+    color: blue;
+    text-align: center;
+}
